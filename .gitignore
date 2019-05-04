@@ -1,0 +1,7 @@
+.DS_Store
+
+node_modules/
+npm-debug.log
+
+# Heroku Recommandation (https://devcenter.heroku.com/articles/local-development-with-docker-compose)
+.env

@@ -1,0 +1,3 @@
+.git
+# Heroku Recommandation (https://devcenter.heroku.com/articles/local-development-with-docker-compose)
+.env
